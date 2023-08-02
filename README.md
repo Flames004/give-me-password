@@ -12,7 +12,7 @@ The Random Password Generator is a web application designed to create strong and
 
 ## How to Use
 
-1. Visit the [Random Password Generator Website](https://example.com/random-password-generator).
+1. Visit the [Random Password Generator Website](https://random-password-generator004.netlify.app/).
 
 2. Adjust the password length:
    - Use the arrow buttons to set the desired password length.
